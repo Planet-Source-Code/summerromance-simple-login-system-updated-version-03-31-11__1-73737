@@ -1,0 +1,21 @@
+* Note: if all the users were blocked simply open the database and create an account under the 
+[T_ID_numbers] and [T_users_acct] table (make sure you fill up all the fields and both the IDnumber 
+on both tables are exactly the same). [important] go to module "DatabaseAccess" delete line 69 and 70
+or simply go to [T_users_acct] under the acctStatus field change "Locked" to "Active".
+
+for any questions, suggestions, comment kindly post it here or email me 
+at yanr_laso@yahoo.com or summer.elly@facebook.com please rate my work 
+Thank you!
+
+Username : SummerElly
+Password : rijndaeL
+
+Username : SummerOk
+Password : lumapass
+
+Username : testuser
+Password : testpass
+
+Database Password : TechServeEra
+
+
